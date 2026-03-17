@@ -11,7 +11,7 @@ WeIP Messenger Lite is a lightweight Windows messaging application designed for 
 
 ## Installation
 Download from Microsoft Store:
-[Your Link Here]
+[[Your Link Here](https://apps.microsoft.com/detail/9NDNKVRNL3HP?hl=en-us&gl=LK&ocid=pdpshare)]
 
 ## Screenshots
 (Add your app screenshots here)
