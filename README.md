@@ -26,7 +26,8 @@ Download from Microsoft Store:
 Feel free to open issues or share feedback!
 
 ## License
-MIT License<img width="844" height="800" alt="image 2" src="https://github.com/user-attachments/assets/376a3769-3e8a-41a5-91d1-8ed912720e84" />
+MIT License
+<img width="844" height="800" alt="image 2" src="https://github.com/user-attachments/assets/376a3769-3e8a-41a5-91d1-8ed912720e84" />
 <img width="802" height="782" alt="image 3" src="https://github.com/user-attachments/assets/6d57506f-ea31-4066-9b6b-b820af6c592f" />
 <img width="808" height="787" alt="image 4" src="https://github.com/user-attachments/assets/02e80f2a-f684-4092-93ba-a90e7ed70927" />
 <img width="800" height="779" alt="image 5" src="https://github.com/user-attachments/assets/c2da1580-36e6-4fda-89f5-20beea57361a" />
